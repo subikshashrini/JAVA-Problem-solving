@@ -32,3 +32,5 @@ public class binarysearch {
         }
     }
 }
+
+//modified this by frd2
